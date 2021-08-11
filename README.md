@@ -1,5 +1,5 @@
 # MinecraftServerNotifier
-A simple program that updates you on the status of a Minecraft server through Discord, including when the server goes offline/online, and player log ins/outs, including their usernames.
+A simple program that updates you on the status of a Minecraft server through a Discord webhook, including when the server goes offline/online, and player log ins/outs, including their usernames.
 # Pictures
 ![Image of the notifications](https://i.imgur.com/TjwIWw7.png)
 # How does it work?
