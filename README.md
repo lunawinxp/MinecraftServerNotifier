@@ -19,4 +19,4 @@ Example configuration file:
 # Thanks
 This program uses the following open-source projects:\
 [N4T4NM's CSharpDiscordWebhook](https://github.com/N4T4NM/CSharpDiscordWebhook) - For posting to the Discord webhook, this could be removed and sent with just pure HTTP requests but, convenience.\
-[FragLand's MineStat](https://github.com/FragLand/minestat) - For getting basnc information from the Minecraft servers, although it has been (badly) slightly modified to allow the return of the player list.
+[FragLand's MineStat](https://github.com/FragLand/minestat) - For getting basic information from the Minecraft servers, although it has been (badly) slightly modified to allow the return of the player list.
