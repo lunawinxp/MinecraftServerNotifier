@@ -4,7 +4,7 @@ A simple program that updates you on the status of a Minecraft server through Di
 ![Image of the notifications](https://i.imgur.com/TjwIWw7.png)
 # How does it work?
 You simply enter the servers you would like to monitor, and a Discord webhook for the notifications to go to.\
-Example configuration file:\
+Example configuration file:
 ```
 {
 	"pollInterval": 10, // How often in seconds it should check the minecraft server's status
